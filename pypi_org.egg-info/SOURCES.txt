@@ -1,0 +1,7 @@
+setup.py
+pypi_org/app.py
+pypi_org.egg-info/PKG-INFO
+pypi_org.egg-info/SOURCES.txt
+pypi_org.egg-info/dependency_links.txt
+pypi_org.egg-info/requires.txt
+pypi_org.egg-info/top_level.txt
